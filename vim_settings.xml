@@ -9,9 +9,22 @@
       <file name="/app" timestamp="1543938751768">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/centos-vag/book_web/app/CliCommad/UpdateBooksInfo.py" timestamp="1543941257384">
+        <mark key="[" line="6" column="56" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
