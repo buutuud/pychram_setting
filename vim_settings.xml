@@ -3,26 +3,50 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1543942674749">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1543938809574">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/centos-vag/book_web/.gitignore" timestamp="1543942649157">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="6" column="1" />
       </file>
       <file name="/app" timestamp="1543938751768">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/centos-vag/book_web/app/CliCommad/UpdateBooksInfo.py" timestamp="1543941257384">
-        <mark key="[" line="6" column="56" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/centos-vag/book_web/app/CliCommad/UpdateBooksInfo.py" timestamp="1543942925412">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="24" />
+        <mark key="^" line="13" column="24" />
+        <mark key="." line="13" column="24" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICMgZm9yIHBhdGgsIGRpcmVjdG9yaWVzLCBmaWxlcyBpbiBvcy53YWxrKGJvb2tzX3BhdGgpOiAgIyBwcmludChmaWxlcykgICMgaWYgZmlsZSBpbiBmaWxlczogICMgICAgICBwcmludCAnZm91bmQgJXMnICUgb3MucGF0aC5qb2luKHBhdGgsIGZpbGUpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdW5jbGVfYm9iLnNhdmUoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaGFzaF9jYWxjKGZpbGUsIGxlbihmaWxlKSkpCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>uncle_bob</text>
       </register>
     </registers>
     <search>
@@ -31,7 +55,10 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>q</entry>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
